@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "5738d6cfa069b92e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e340e9296623bcd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reviews/Software Co-Verification Using the SystemVerilog DPI.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abf8115dfd94f3eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2de1a5e538f2587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6568d0eaf7c9395b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b974b10d458c992d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10be1654bb9e2e6f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "3256f3795a014475",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d44870d1a677de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c21143ba6a506ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reviews/Software Co-Verification Using the SystemVerilog DPI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc54ba1aa4350a7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a7ae8b8bf0348b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reviews/Software Co-Verification Using the SystemVerilog DPI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Reviews/Software Co-Verification Using the SystemVerilog DPI.md",
+    "Reviews/Full-System Simulation.md",
+    "Reviews/Newwww.md",
+    "Templates/Main Template.md",
+    "Reviews/New File.md",
+    "Hardware/Software Co-Verification Using the SystemVerilog DPI.md",
+    "Templates/Untitled.md"
+  ]
+}
