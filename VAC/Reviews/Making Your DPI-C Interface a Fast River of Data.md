@@ -4,7 +4,7 @@ Date: 13:41 2021-04-08
 
 ### Reviewer: #Alexander 
 
-### Tags: #TAG0 #TAG-1
+### Tags: #DPI-C 
 
 ### Rates - 23
 - Usefulness - 7 на сколько идея может быть полезна в использовании
