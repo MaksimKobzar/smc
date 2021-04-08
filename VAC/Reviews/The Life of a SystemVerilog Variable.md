@@ -4,7 +4,7 @@ Date: 00:44 2021-04-08
 
 ### Reviewer: #Alexander
 
-### Tags: #Basics #SV #Variable
+### Tags: #Basics #SV #Variables
 
 ### Rates - 25
 - Usefulness - 8 на сколько идея может быть полезна в использовании
