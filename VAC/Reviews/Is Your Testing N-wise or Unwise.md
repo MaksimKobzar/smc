@@ -4,7 +4,7 @@ Date: 20:01 07-04-2021
 
 ### Reviewer: #Maksim 
 
-### Tags: #UVM #STIMULUS #2-WISE #CODE
+### Tags: #UVM #STIMULUS #2-WISE #PAIR-WISE #CODE #PICT
 
 ### Rates - 30
 - Usefulness - 7 на сколько идея может быть полезна в использовании
