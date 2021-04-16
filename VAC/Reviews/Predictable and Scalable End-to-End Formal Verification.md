@@ -17,7 +17,7 @@ In this article, we discuss why formal verification adoption has been limited in
 
 ### Main
 #### Why formal isn't so widely used?
-- Harry foster research shows that only 35-40% projects use formal 
+- Harry Foster research shows that only 35-40% projects use formal 
 - Benefits: bugs are caught sooner, corner case bugs are found easily, mathematical proofs, discover and redefine requirements, deal with complected cases such as deadlocks
 - The key hindrance is writing SVA for efficiency to ensure **high coverage, predictable proof convergence and scalability with design size**
 #### How to deal with that problem?
@@ -42,7 +42,9 @@ In this article, we discuss why formal verification adoption has been limited in
 - Different mindset should be considered
 
 ### Article References
-### Other LInks
+### Other Links
+[WEB format](https://verificationacademy.com/verification-horizons/march-2021-volume-17-issue-1/predictable-and-scalable-end-to-end-formal-verification)
+[The ABC of Formal Verification](https://verificationacademy.com/sessions/the-abc-of-formal-verification) (webinar)
 
 ### Article
 ![[predictable-and-scalable-end-to-end-formal-verification_vh-v17-i1.pdf]]

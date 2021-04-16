@@ -23,7 +23,7 @@ Abstract text
 1. Reference 0
 2. Reference 1
 
-### Other LInks
+### Other Links
 
 ### Article
 ![[pdf link of the article]]
