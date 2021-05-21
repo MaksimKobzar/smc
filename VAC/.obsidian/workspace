@@ -6,11 +6,10 @@
       {
         "id": "e3e74281a4768f09",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reviews/Is Your Testing N-wise or Unwise.md",
+            "file": "Reviews/Verification Prowess with the UVM Harness.md",
             "mode": "source"
           }
         }
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviews/Is Your Testing N-wise or Unwise.md",
+                "file": "Reviews/Verification Prowess with the UVM Harness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviews/Is Your Testing N-wise or Unwise.md"
+                "file": "Reviews/Verification Prowess with the UVM Harness.md"
               }
             }
           }
@@ -114,7 +115,9 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "e3e74281a4768f09",
   "lastOpenFiles": [
+    "Reviews/Verification Prowess with the UVM Harness.md",
     "Reviews/Is Your Testing N-wise or Unwise.md",
     "Reviews/Machine Learning-Guided Stimulus Generation For Functional Verification.md",
     "Reviews/Dynamically Optimized Test Generation Using Machine Learning.md",
@@ -123,7 +126,6 @@
     "Reviews/A Framework for Constrained Functional Verification.md",
     "Short-term Plans/Plan to understand ML usage in Hardware Verification.md",
     "Reviews/Accelerating Coverage Directed Test Generation for Functional Verification.md",
-    "Reviews/Online Selection of Effective Functional Test Programs Based on Novelty Detection.md",
-    "Reviews/Functional Test Selection Based On Unsupervised Support Vector Analysis.md"
+    "Reviews/Online Selection of Effective Functional Test Programs Based on Novelty Detection.md"
   ]
 }
