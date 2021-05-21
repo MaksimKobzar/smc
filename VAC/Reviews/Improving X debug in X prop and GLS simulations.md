@@ -6,11 +6,11 @@ Date: 07:51 2021-05-20
 
 ### Tags: #XPROP #GLS #DEBUG
 
-### Rates - X
-- Usefulness - X на сколько идея может быть полезна в использовании
-- Applicability - X на сколько идея применима
-- Innovativeness - X на сколько идея нова
-- Availability - X на сколько идея доступно и понятно изложена
+### Rates - 33
+- Usefulness - 9 на сколько идея может быть полезна в использовании
+- Applicability - 9 на сколько идея применима
+- Innovativeness - 8 на сколько идея нова
+- Availability - 7 на сколько идея доступно и понятно изложена
 
 ### Abstract
 In RTL simulation the unknown state, X, which can be 0 or 1 introduces a verification challenge. X-optimism inherent in RTL simulation of some coding styles can filter an X and prevent it from reaching an observation point where it can be detected. As a consequence, time-consuming gate-level simulation (GLS) has been traditionally used to catch X-issues late in the design flow. 
